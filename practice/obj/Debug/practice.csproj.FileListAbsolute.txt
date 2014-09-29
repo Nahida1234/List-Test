@@ -1,0 +1,6 @@
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\bin\Debug\practice.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\bin\Debug\practice.exe
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\bin\Debug\practice.pdb
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\obj\Debug\practice.exe
+c:\users\popy\documents\visual studio 2013\Projects\practice\practice\obj\Debug\practice.pdb
